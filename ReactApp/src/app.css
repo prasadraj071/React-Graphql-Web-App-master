@@ -1,0 +1,48 @@
+
+
+.car_detail img{
+    width :100%;
+}
+
+.car_detail h2, .car_detail h3 {
+    margin:0;
+    text-align: center;
+}
+
+.car_detail .content{
+    padding:15px;
+}
+
+#card_phone{
+    width:250px;
+    margin-left:10%;
+    margin-top:4%; 
+    padding:4%;
+    height: 450px;
+}
+
+.phone_main{
+    width:30%;
+    display: inline-block;
+}
+
+.phone_image{
+    width:180px;
+    height:180px;
+}
+
+#model_image{
+    width:180px;
+    height:180px; 
+}
+
+.rounded-circle{
+    width:200px;
+    height:200px
+}
+.main_hotel{
+    margin-top:10%
+}
+.txtwhite{
+    color:white
+}
